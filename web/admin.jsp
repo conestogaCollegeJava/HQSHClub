@@ -1,10 +1,10 @@
 <%-- 
-    Document   : display
-    Created on : Jan 18, 2017, 12:12:27 PM
+    Document   : admin
+    Created on : Jan 18, 2017, 1:42:58 PM
     Author     : haitao
 --%>
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>

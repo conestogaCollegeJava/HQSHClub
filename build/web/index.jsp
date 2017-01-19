@@ -14,11 +14,13 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Page</title>
-
     </head>
     <body>
-        <h1>Hello World!</h1><br>
-        <h2>date and time: </h2><br>
+        <h1>Java Web Technology: Section1</h1><br>
+        <h1>Assignment1</h1><br>
+        <h1>driver: ><br>
+        <h1>Observe: </h1><br>
+        <h2>Current Date and Time: </h2><br>
         <%= new java.util.Date()%>
       
     </body>
